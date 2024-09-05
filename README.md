@@ -1,2 +1,2 @@
 # GestCantineADA.
- GestCantineADA.
+ GestCantineADA
